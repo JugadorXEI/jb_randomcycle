@@ -8,6 +8,7 @@ This assumes you have SourceMod installed on your dedicated server. If not, go h
 
 1. Get the latest release from the releases tab.
 2. Drag'n'drop the addons folder to your addons folder which contains SourceMod in it.
+3. On your `server.cfg` or `sourcemod/randomcycle.cfg` file, set `jb_sv_voting_enabled 0` in them. There's no need to vote as a new map and gamemode is set from the start.
 3. Done!
 
 If you have modified your `configs/maplists.cfg` file in some way, copy the map lists that start with `jbep3_` and paste them on your maplists.cfg file.
