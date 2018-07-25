@@ -1,0 +1,46 @@
+"randomcycle_maplists"
+{
+	// Here you can change which maplists do you want to randomize through jb_randomcycle
+	// Input the gamemode name, and then the maplist you wish to use. Only the first one will be used.
+	// Maplists can be configured on addons/sourcemod/configs/maplists.cfg
+
+	"battleroyale"
+	{
+		"maplist" "jbep3_default"
+	}
+	
+	"fartcops"
+	{
+		"maplist" "jbep3_default"
+	}
+	
+	"svt"
+	{
+		"maplist" "jbep3_svt"
+	}
+	
+	"svm"
+	{
+		"maplist" "jbep3_svm"
+	}
+	
+	"gungame"
+	{
+		"maplist" "jbep3_default"
+	}
+	
+	"instagib"
+	{
+		"maplist" "jbep3_default"
+	}
+	
+	"dm"
+	{
+		"maplist" "jbep3_default"
+	}
+	
+	"tdm"
+	{
+		"maplist" "jbep3_tdm"
+	}
+}
